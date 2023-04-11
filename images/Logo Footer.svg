@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.454" height="20.949" viewBox="0 0 18.454 20.949">
+    <defs>
+        <style>.a{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;}</style>
+    </defs>
+    <g transform="translate(1 1)">
+        <path class="a" d="M27.985,5.842a2.744,2.744,0,1,1-5.485,0,2.744,2.744,0,1,1,5.485,0Z"
+              transform="translate(-11.531 -3)"/>
+        <path class="a"
+              d="M9.985,16.342a2.794,2.794,0,0,1-2.742,2.842,2.844,2.844,0,0,1,0-5.685A2.794,2.794,0,0,1,9.985,16.342Z"
+              transform="translate(-4.5 -6.868)"/>
+        <path class="a" d="M27.985,26.842A2.744,2.744,0,1,1,25.242,24,2.794,2.794,0,0,1,27.985,26.842Z"
+              transform="translate(-11.531 -10.736)"/>
+        <path class="a" d="M12.885,20.265l6.243,3.771" transform="translate(-7.775 -9.36)"/>
+        <path class="a" d="M19.119,9.765l-6.234,3.771" transform="translate(-7.775 -5.492)"/>
+    </g>
+</svg>
